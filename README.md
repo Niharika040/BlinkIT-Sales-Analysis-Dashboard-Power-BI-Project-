@@ -23,7 +23,7 @@ The main objective of this project is to analyze **BlinkIT’s grocery sales dat
 - **Rows:** 8,523  
 - **Columns:** 12  
 
-### 📌 Key Columns
+###  Key Columns
 | Column Name                 | Description |
 |------------------------------|-------------|
 | Item Identifier              | Unique product code |
@@ -74,19 +74,19 @@ The Power BI dashboard is **interactive** with multiple slicers and KPIs:
 
 ###  Outlet Performance
 - **Supermarket Type1 generates 65% of sales ($788K).**  
-  🔹 *Expand Type1 model across more locations.*  
+   *Expand Type1 model across more locations.*  
 - **Tier 3 outlets lead with $472K sales.**  
-  🔹 *Focus growth strategy on semi-urban/rural regions.*  
+   *Focus growth strategy on semi-urban/rural regions.*  
 - **Medium outlets outperform ($508K).**  
-  🔹 *Scale medium-sized stores vs. small outlets.*  
+   *Scale medium-sized stores vs. small outlets.*  
 
 ### Product Insights
 - **Regular fat products drive nearly 2x sales vs Low Fat.**  
-  🔹 *Boost promotions for Regular fat, but invest in health-conscious SKUs.*  
+   *Boost promotions for Regular fat, but invest in health-conscious SKUs.*  
 - **Fruits & Snacks dominate ($360K).**  
-  🔹 *Bundle with weak categories like Breakfast/Seafood for cross-sell.*  
+   *Bundle with weak categories like Breakfast/Seafood for cross-sell.*  
 - **Breakfast & Seafood <2% of sales.**  
-  🔹 *Improve marketing or phase out underperformers.*  
+   *Improve marketing or phase out underperformers.*  
 
 ### Customer Insights
 - **Avg Rating: 3.9/5** → *room for quality improvement.*  
@@ -94,8 +94,8 @@ The Power BI dashboard is **interactive** with multiple slicers and KPIs:
 
 ### Time Trends
 - **Peak sales in 2018–2020 ($205K in 2018).**  
-  🔹 *Leverage heavy promos in early years of new outlets.*  
+   *Leverage heavy promos in early years of new outlets.*  
 - **Decline post-2020.**  
-  🔹 *Explore new product lines & competitive pricing.*  
+   *Explore new product lines & competitive pricing.*  
 
 ---
