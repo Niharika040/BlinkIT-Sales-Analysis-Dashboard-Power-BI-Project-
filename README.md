@@ -51,6 +51,7 @@ Before building the dashboard, the dataset was cleaned in Power BI:
 ---
 
 ## Dashboard Features
+- [Power BI Dashboard (.pbix)](https://github.com/NIHARIKA040/BlinkIT-sales-analysis-dashboard-power-BI-project/raw/main/dashboard/BlinkIT_PowerBI.pbix)
 The Power BI dashboard is **interactive** with multiple slicers and KPIs:
 
 ### KPIs
