@@ -19,7 +19,7 @@ The main objective of this project is to analyze **BlinkIT’s grocery sales dat
 ---
 
 ## Dataset Information
-- **File:** `BlinkIT Grocery Data.xlsx` [BlinkIT Grocery Data](./BlinkIT Grocery Data.xlsx) 
+- **File:** `BlinkIT Grocery Data.xlsx` 
 - **Rows:** 8,523  
 - **Columns:** 12  
 
